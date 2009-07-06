@@ -1,27 +1,30 @@
 Tech:
   improve:
     areas:
-    platforms:
+      TDD/testing:
+    platforms/motifs:
     languages:
+      HTML5:
+      CSS3:
   
   new:
     areas:
-    concurrency:
-    scaling:
-    security:
-    TDD/testing:
-  platforms:
-    iPhone:
-    FB:
-  languages:
-    erlang:
-    jruby on rails:
-    haskell:
-    scala:
-    groovy:
-    clojure:
-    obj-c:
-
+      concurrency:
+      scaling:
+      security:
+    platforms/motifs:
+      iPhone:
+      FB:
+      open source:
+    languages:
+      erlang:
+      jruby on rails:
+      haskell:
+      scala:
+      groovy:
+      clojure:
+      obj-c:
+  
 Non-tech:
   improve:
     art:
