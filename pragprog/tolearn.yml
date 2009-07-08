@@ -4,8 +4,9 @@ Tech:
       TDD/testing:
     platforms/motifs:
     languages:
-      HTML5:
       CSS3:
+      HAML:
+      SASS:
   
   new:
     areas:
@@ -47,6 +48,5 @@ Non-tech:
       GP:
       tai chi:
     morning routine:
-      yoga:
     study:
       modern china:
